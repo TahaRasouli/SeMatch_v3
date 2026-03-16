@@ -1,0 +1,10 @@
+gradio>=4.0.0
+# torch
+sentence-transformers
+groq
+lxml
+numpy
+httpx>=0.25.0
+nest_asyncio
+matplotlib
+pyvis
