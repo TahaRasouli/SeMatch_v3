@@ -1,4 +1,4 @@
-# 🏭 Industrial GraphRAG + AAS Generator
+# 🏭 ISW's Industrial OPC UA + AAS Intelligence
 
 An advanced industrial data processing tool designed to bridge the gap between **OPC UA (Information Models)** and **AAS (Asset Administration Shell)** standards.  
 
